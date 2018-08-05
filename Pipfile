@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+izen = "*"
+logzero = "*"
+flask = "*"
+flask-cors = "*"
+requests = "*"
+faker = "*"
+flask-sqlalchemy = "*"
+pymysql = "*"
+
+[requires]
+python_version = "3.7"

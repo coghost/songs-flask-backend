@@ -1,2 +1,6 @@
 Flask:
-  ☐ flask restful api: https://www.cnblogs.com/Leo_wl/p/5525833.html
+ ☐ flask restful api: https://www.cnblogs.com/Leo_wl/p/5525833.html
+
+Flask Restful Api 认证:
+ ☐ JWT: https://blog.csdn.net/liuwenbiao1203/article/details/52351772
+ ☐ 常用认证方式: https://www.cnblogs.com/Irving/p/4964489.html
